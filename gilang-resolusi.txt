@@ -2,3 +2,4 @@
 -membuat web portofolio diri 
 -merancang sistem management peserta
 -buat sistem management peserta
+-rancang bagian project management peserta bagian invois
