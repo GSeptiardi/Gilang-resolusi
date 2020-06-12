@@ -1,0 +1,4 @@
+-pelajari github untuk portofolio diri
+-membuat web portofolio diri 
+-merancang sistem management peserta
+-buat sistem management peserta
