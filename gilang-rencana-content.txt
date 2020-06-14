@@ -2,6 +2,10 @@
  *es6 
  *framework 
  -struktur data
+ ^ vue
+ ^rect
 -php frameworks
+*laravel
 -interview
 -vlog
+-python
