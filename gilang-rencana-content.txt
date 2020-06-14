@@ -1,6 +1,8 @@
 -javascript
  *es6 
  *framework 
+  ^angular
+  ^react
  -struktur data
  ^ vue
  ^rect
