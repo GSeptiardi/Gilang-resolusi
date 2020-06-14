@@ -1,6 +1,7 @@
 -javascript
  *es6 
  *framework 
+ -struktur data
 -php frameworks
 -interview
 -vlog
