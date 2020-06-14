@@ -1,7 +1,10 @@
 -javascript
  *es6 
  *framework 
+  ^angular
+  ^react
  -struktur data
 -php frameworks
+  ^Laravel
 -interview
 -vlog
