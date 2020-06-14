@@ -4,7 +4,10 @@
   ^angular
   ^react
  -struktur data
+ ^ vue
+ ^rect
 -php frameworks
-  ^Laravel
+*laravel
 -interview
 -vlog
+-python
